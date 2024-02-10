@@ -1,0 +1,6 @@
+Flask
+Flask-Session
+psycopg2-binary
+SQLAlchemy
+Postgres SQL 16 
+Python 3.6
